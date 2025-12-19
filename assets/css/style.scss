@@ -409,6 +409,25 @@ a.btn {
   box-shadow: 0 4px 12px rgba(20, 143, 119, 0.3);
 }
 
+/* ----- Sidebar Button (View on GitHub) ----- */
+a.button {
+  background: transparent;
+  border: 2px solid var(--ocean-mid);
+  color: var(--ocean-mid);
+  box-shadow: none;
+  text-shadow: none;
+}
+
+a.button:hover {
+  background: var(--ocean-pale);
+  color: var(--ocean-deep);
+}
+
+a.button small {
+  color: var(--slate);
+  text-shadow: none;
+}
+
 /* ----- Footer ----- */
 footer {
   background: var(--linen-dark);
