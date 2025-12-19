@@ -123,6 +123,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Garnet Hertz, "Making Critical Making." (PDF)
 - Scott McCloud, ["My Obsession with Chess."](https://scottmccloud.com/1-webcomics/chess/chess.html)
 - Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/)
+- Ilan Manouach, ["Comics as Big Data: The Transformation of Comics into Machine-Interpretable Information"](https://electronicbookreview.com/publications/comics-as-big-data-the-transformation-of-comics-into-machine-interpretable-information/) (*Electronic Book Review*, 2024)
 - Johnson and Salter, "Chapter Two: Comic"
 - **Featured Guest: Jason Helms**
 - **[Making Exercise Two: Comic](exercises/two_comic)**
