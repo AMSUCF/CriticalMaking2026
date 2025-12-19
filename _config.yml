@@ -1,0 +1,5 @@
+title: "ENG 6819: Critical Making for Humanist Scholarship"
+description: "Critical making as scholarly practice in the digital humanities"
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+  - jekyll-remote-theme
