@@ -123,7 +123,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Garnet Hertz, "Making Critical Making." (PDF)
 - Scott McCloud, ["My Obsession with Chess."](https://scottmccloud.com/1-webcomics/chess/chess.html)
 - Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/)
-- Nick Sousanis & Marc Santos, ["Unflattening Academic Peer Review"](https://kairos.technorhetoric.net/28.2/disputatio/sousanis-santos/index.html) (*Kairos* 28.2, 2024)
 - Johnson and Salter, "Chapter Two: Comic"
 - **Featured Guest: Jason Helms**
 - **[Making Exercise Two: Comic](exercises/two_comic)**
@@ -174,7 +173,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - *Your Computer is On Fire* - Part III
 - Mark Sample, ["The Infinite Catalog of Crushed Dreams."](https://fugitivetexts.net/pandemicdreams/)
 - Leonardo Flores, ["Genre: Bot:"](https://iloveepoetry.org/?p=5427)
-- Allison Parrish, ["Experimental Creative Writing with the Vectorized Word"](https://www.decontextualize.com/teaching/rwet/essays/)
+- Allison Parrish, ["Experimental Creative Writing with the Vectorized Word"](https://www.youtube.com/watch?v=L3D0JEA1Jdc)
 - Explore: [NaNoGenMo](https://nanogenmo.github.io/)
 - Johnson and Salter, "Chapter Seven: Grammar"
 - **Featured Guest: Leonardo Flores**
