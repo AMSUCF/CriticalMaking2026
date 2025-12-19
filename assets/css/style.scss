@@ -4,97 +4,81 @@
 @import "jekyll-theme-dinky";
 
 /* ============================================
-   Critical Making: Textile & Craft Aesthetic
-   A handcrafted, woven design system
+   Critical Making: Ocean & Forest Theme
+   A calming blue and green design with linen texture
    ============================================ */
 
-/* ----- Color Palette ----- */
+/* ----- Color Palette: Blues & Greens ----- */
 :root {
-  --craft-cream: #f5f0e6;
-  --craft-parchment: #ebe3d5;
-  --craft-linen: #d4c8b8;
-  --craft-thread-gold: #c9a227;
-  --craft-terracotta: #c17f59;
-  --craft-rust: #a65d3f;
-  --craft-sage: #7d8c6e;
-  --craft-moss: #5a6650;
-  --craft-indigo: #3d5a80;
-  --craft-navy: #2c3e50;
-  --craft-charcoal: #3a3a3a;
-  --craft-espresso: #4a3728;
-  --stitch-width: 8px;
-  --stitch-gap: 12px;
+  --linen: #faf0e6;
+  --linen-light: #fdf8f3;
+  --linen-dark: #e8ddd0;
+  --ocean-deep: #1a5276;
+  --ocean-mid: #2874a6;
+  --ocean-light: #5dade2;
+  --ocean-pale: #d4e6f1;
+  --forest-deep: #1e4d2b;
+  --forest-mid: #27ae60;
+  --forest-light: #58d68d;
+  --forest-pale: #d5f5e3;
+  --teal: #148f77;
+  --teal-light: #1abc9c;
+  --charcoal: #2c3e50;
+  --slate: #5d6d7e;
 }
 
-/* ----- Woven Background Pattern ----- */
+/* ----- Linen Background ----- */
 body {
-  background:
-    repeating-linear-gradient(
-      0deg,
-      transparent,
-      transparent 2px,
-      rgba(74, 55, 40, 0.03) 2px,
-      rgba(74, 55, 40, 0.03) 4px
-    ),
-    repeating-linear-gradient(
-      90deg,
-      transparent,
-      transparent 2px,
-      rgba(74, 55, 40, 0.03) 2px,
-      rgba(74, 55, 40, 0.03) 4px
-    ),
-    var(--craft-cream);
-  background-attachment: fixed;
+  background-color: var(--linen);
+  background-image:
+    url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h40v40H0V0zm1 1h38v38H1V1z' fill='%23e8ddd0' fill-opacity='0.4' fill-rule='evenodd'/%3E%3C/svg%3E");
+  font-family: 'Source Sans Pro', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--charcoal);
 }
 
 /* ----- Main Container ----- */
 #container {
-  background: linear-gradient(
-    180deg,
-    rgba(255, 255, 255, 0.95) 0%,
-    rgba(245, 240, 230, 0.98) 100%
-  );
+  background: var(--linen-light);
   border: none;
   box-shadow:
-    0 0 0 3px var(--craft-linen),
-    0 0 0 6px var(--craft-parchment),
-    0 8px 32px rgba(74, 55, 40, 0.15);
+    0 0 0 3px var(--linen-dark),
+    0 0 0 6px var(--ocean-pale),
+    0 8px 32px rgba(26, 82, 118, 0.12);
   position: relative;
+  max-width: 900px;
+  padding: 2em;
 }
 
-/* Stitched border effect */
+/* Decorative border */
 #container::before {
   content: '';
   position: absolute;
-  top: 8px;
-  left: 8px;
-  right: 8px;
-  bottom: 8px;
-  border: 2px dashed var(--craft-terracotta);
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px;
+  border: 2px solid var(--ocean-pale);
   border-radius: 4px;
   pointer-events: none;
-  opacity: 0.5;
-  animation: stitchPulse 4s ease-in-out infinite;
-}
-
-@keyframes stitchPulse {
-  0%, 100% { opacity: 0.4; }
-  50% { opacity: 0.6; }
+  opacity: 0.6;
 }
 
 /* ----- Header Styling ----- */
 header {
   background: linear-gradient(
     135deg,
-    var(--craft-espresso) 0%,
-    var(--craft-rust) 50%,
-    var(--craft-terracotta) 100%
+    var(--ocean-deep) 0%,
+    var(--teal) 50%,
+    var(--forest-deep) 100%
   );
   position: relative;
   overflow: hidden;
+  padding: 1.5em;
 }
 
-/* Fabric texture overlay on header */
+/* Subtle wave pattern overlay */
 header::before {
   content: '';
   position: absolute;
@@ -104,223 +88,174 @@ header::before {
   bottom: 0;
   background-image:
     repeating-linear-gradient(
-      45deg,
+      120deg,
       transparent,
-      transparent 10px,
-      rgba(255, 255, 255, 0.03) 10px,
-      rgba(255, 255, 255, 0.03) 20px
-    ),
-    repeating-linear-gradient(
-      -45deg,
-      transparent,
-      transparent 10px,
-      rgba(0, 0, 0, 0.03) 10px,
-      rgba(0, 0, 0, 0.03) 20px
+      transparent 30px,
+      rgba(255, 255, 255, 0.03) 30px,
+      rgba(255, 255, 255, 0.03) 60px
     );
   pointer-events: none;
 }
 
-/* Decorative thread/fringe at header bottom */
+/* Bottom accent line */
 header::after {
   content: '';
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
-  height: 6px;
-  background: repeating-linear-gradient(
+  height: 4px;
+  background: linear-gradient(
     90deg,
-    var(--craft-thread-gold) 0px,
-    var(--craft-thread-gold) 3px,
-    transparent 3px,
-    transparent 8px,
-    var(--craft-cream) 8px,
-    var(--craft-cream) 11px,
-    transparent 11px,
-    transparent 16px
+    var(--forest-light),
+    var(--teal-light),
+    var(--ocean-light)
   );
-  animation: fringeWave 3s ease-in-out infinite;
-}
-
-@keyframes fringeWave {
-  0%, 100% { transform: translateX(0); }
-  50% { transform: translateX(8px); }
 }
 
 header h1 {
-  color: var(--craft-cream);
-  text-shadow:
-    2px 2px 0 var(--craft-espresso),
-    -1px -1px 0 rgba(0, 0, 0, 0.3);
-  font-family: Georgia, 'Times New Roman', serif;
-  letter-spacing: 1px;
+  color: var(--linen);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
+  font-size: 1.8em;
+  font-weight: 700;
+  letter-spacing: 0.5px;
   position: relative;
   z-index: 1;
+  margin: 0;
 }
 
 /* ----- Typography ----- */
 h1, h2, h3, h4, h5, h6 {
-  color: var(--craft-espresso);
-  font-family: Georgia, 'Times New Roman', serif;
-  position: relative;
+  color: var(--ocean-deep);
+  font-family: 'Merriweather', Georgia, 'Times New Roman', serif;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 2em;
 }
 
 h2 {
-  border-bottom: none;
-  padding-bottom: 0.5em;
+  font-size: 1.6em;
+  border-bottom: 3px solid var(--ocean-light);
+  padding-bottom: 0.4em;
+  margin-top: 1.8em;
   margin-bottom: 1em;
 }
 
-/* Cross-stitch decorative underline for h2 */
-h2::after {
-  content: '+ + + + + + + + + + + + + + + + + + + +';
-  display: block;
-  font-size: 10px;
-  letter-spacing: 4px;
-  color: var(--craft-terracotta);
-  margin-top: 8px;
-  overflow: hidden;
-  white-space: nowrap;
-  animation: stitchReveal 1s ease-out forwards;
-  opacity: 0.7;
-}
-
-@keyframes stitchReveal {
-  from {
-    max-width: 0;
-    opacity: 0;
-  }
-  to {
-    max-width: 100%;
-    opacity: 0.7;
-  }
-}
-
 h3 {
-  color: var(--craft-rust);
-  border-left: 4px solid var(--craft-thread-gold);
+  font-size: 1.3em;
+  color: var(--forest-deep);
+  border-left: 4px solid var(--forest-mid);
   padding-left: 12px;
-  margin-left: -16px;
+  margin-left: 0;
+  margin-top: 1.5em;
 }
 
-/* ----- Links with Thread Animation ----- */
+h4 {
+  font-size: 1.15em;
+  color: var(--teal);
+}
+
+/* Body text - larger and more readable */
+p {
+  font-size: 1.05em;
+  line-height: 1.8;
+  margin-bottom: 1.2em;
+}
+
+/* ----- Links ----- */
 a {
-  color: var(--craft-indigo);
+  color: var(--ocean-mid);
   text-decoration: none;
-  position: relative;
-  transition: color 0.3s ease;
-}
-
-a:not(.anchor)::after {
-  content: '';
-  position: absolute;
-  bottom: -2px;
-  left: 0;
-  width: 0;
-  height: 2px;
-  background: linear-gradient(
-    90deg,
-    var(--craft-thread-gold),
-    var(--craft-terracotta),
-    var(--craft-thread-gold)
-  );
-  transition: width 0.4s ease;
-  border-radius: 1px;
+  border-bottom: 1px solid var(--ocean-pale);
+  transition: color 0.2s ease, border-bottom-color 0.2s ease;
 }
 
 a:hover {
-  color: var(--craft-rust);
+  color: var(--teal);
+  border-bottom-color: var(--teal-light);
 }
 
-a:hover::after {
-  width: 100%;
-  animation: threadShimmer 1.5s ease infinite;
+a:visited {
+  color: var(--forest-deep);
 }
 
-@keyframes threadShimmer {
-  0% { opacity: 1; }
-  50% { opacity: 0.6; }
-  100% { opacity: 1; }
-}
-
-/* ----- Tables with Woven Look ----- */
+/* ----- Tables ----- */
 table {
   border-collapse: separate;
   border-spacing: 0;
-  background: var(--craft-cream);
-  border: 3px solid var(--craft-linen);
-  border-radius: 4px;
+  background: var(--linen-light);
+  border: 2px solid var(--ocean-pale);
+  border-radius: 6px;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(74, 55, 40, 0.1);
+  box-shadow: 0 2px 8px rgba(26, 82, 118, 0.08);
+  width: 100%;
+  font-size: 1em;
 }
 
 th {
   background: linear-gradient(
     180deg,
-    var(--craft-espresso) 0%,
-    var(--craft-rust) 100%
+    var(--ocean-deep) 0%,
+    var(--ocean-mid) 100%
   );
-  color: var(--craft-cream);
-  font-weight: normal;
-  font-family: Georgia, serif;
-  letter-spacing: 0.5px;
-  padding: 12px 16px;
-  border-bottom: 3px solid var(--craft-thread-gold);
+  color: var(--linen);
+  font-weight: 600;
+  font-family: 'Merriweather', Georgia, serif;
+  padding: 14px 18px;
+  text-align: left;
+  border-bottom: 3px solid var(--teal-light);
 }
 
 td {
-  padding: 10px 16px;
-  border-bottom: 1px dashed var(--craft-linen);
-  transition: background-color 0.3s ease;
+  padding: 12px 18px;
+  border-bottom: 1px solid var(--linen-dark);
+  font-size: 1em;
 }
 
 tr:hover td {
-  background-color: rgba(201, 162, 39, 0.1);
+  background-color: var(--ocean-pale);
 }
 
 tr:last-child td {
   border-bottom: none;
 }
 
-/* Alternating row pattern like woven fabric */
 tr:nth-child(even) td {
-  background-color: rgba(212, 200, 184, 0.3);
+  background-color: rgba(212, 230, 241, 0.3);
 }
 
 tr:nth-child(even):hover td {
-  background-color: rgba(201, 162, 39, 0.15);
+  background-color: var(--ocean-pale);
 }
 
-/* ----- Code Blocks with Paper/Notecard Look ----- */
+/* ----- Code Blocks ----- */
 code {
-  background: var(--craft-parchment);
-  border: 1px solid var(--craft-linen);
-  color: var(--craft-espresso);
-  font-family: 'Courier New', monospace;
-  padding: 2px 6px;
-  border-radius: 3px;
+  background: var(--linen-dark);
+  border: 1px solid var(--ocean-pale);
+  color: var(--ocean-deep);
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-size: 0.95em;
 }
 
 pre {
-  background:
-    linear-gradient(
-      to right,
-      var(--craft-terracotta) 0px,
-      var(--craft-terracotta) 4px,
-      transparent 4px
-    ),
-    linear-gradient(
-      180deg,
-      var(--craft-parchment) 0%,
-      var(--craft-cream) 100%
-    );
-  border: 1px solid var(--craft-linen);
-  border-radius: 4px;
-  padding: 16px;
-  padding-left: 20px;
-  box-shadow:
-    inset 0 1px 3px rgba(74, 55, 40, 0.1),
-    0 2px 4px rgba(74, 55, 40, 0.05);
+  background: linear-gradient(
+    to right,
+    var(--forest-mid) 0px,
+    var(--forest-mid) 4px,
+    var(--linen-light) 4px
+  );
+  border: 1px solid var(--ocean-pale);
+  border-radius: 6px;
+  padding: 18px;
+  padding-left: 22px;
+  box-shadow: inset 0 1px 3px rgba(26, 82, 118, 0.08);
+  overflow-x: auto;
 }
 
 pre code {
@@ -329,415 +264,217 @@ pre code {
   padding: 0;
 }
 
-/* ----- Blockquotes with Fabric Ribbon ----- */
+/* ----- Blockquotes ----- */
 blockquote {
   background: linear-gradient(
     90deg,
-    rgba(125, 140, 110, 0.15) 0%,
-    rgba(125, 140, 110, 0.05) 100%
+    var(--forest-pale) 0%,
+    rgba(213, 245, 227, 0.3) 100%
   );
-  border-left: 4px solid var(--craft-sage);
+  border-left: 4px solid var(--forest-mid);
   margin: 1.5em 0;
-  padding: 1em 1.5em;
-  position: relative;
+  padding: 1.2em 1.5em;
   font-style: italic;
-  color: var(--craft-charcoal);
+  color: var(--charcoal);
+  border-radius: 0 6px 6px 0;
+  font-size: 1.05em;
 }
 
-blockquote::before {
-  content: '';
-  position: absolute;
-  top: -8px;
-  left: -4px;
-  width: 24px;
-  height: 24px;
-  background: var(--craft-sage);
-  clip-path: polygon(0 0, 100% 0, 100% 100%);
-  animation: ribbonFold 2s ease-in-out infinite;
+blockquote p {
+  margin-bottom: 0;
 }
 
-@keyframes ribbonFold {
-  0%, 100% { transform: rotate(0deg); }
-  50% { transform: rotate(-5deg); }
-}
-
-/* ----- Lists with Stitch Markers ----- */
+/* ----- Lists ----- */
 ul {
   list-style: none;
-  padding-left: 1.5em;
+  padding-left: 1.8em;
 }
 
 ul li {
   position: relative;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.6em;
+  font-size: 1.05em;
 }
 
 ul li::before {
-  content: '~';
+  content: '\2022';
   position: absolute;
   left: -1.5em;
-  color: var(--craft-terracotta);
+  color: var(--teal);
   font-weight: bold;
-  animation: stitchBounce 2s ease-in-out infinite;
+  font-size: 1.2em;
 }
 
 ul li:nth-child(even)::before {
-  animation-delay: 0.5s;
+  color: var(--ocean-mid);
 }
 
 ul li:nth-child(3n)::before {
-  color: var(--craft-sage);
-}
-
-ul li:nth-child(4n)::before {
-  color: var(--craft-indigo);
-}
-
-@keyframes stitchBounce {
-  0%, 100% { transform: translateY(0) rotate(0deg); }
-  25% { transform: translateY(-2px) rotate(-10deg); }
-  75% { transform: translateY(1px) rotate(5deg); }
+  color: var(--forest-mid);
 }
 
 /* Nested lists */
 ul ul li::before {
-  content: '-';
+  content: '\25E6';
+  font-size: 1em;
 }
 
 ol {
-  padding-left: 1.5em;
+  padding-left: 1.8em;
 }
 
 ol li {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.6em;
+  font-size: 1.05em;
 }
 
 ol li::marker {
-  color: var(--craft-rust);
+  color: var(--ocean-deep);
   font-weight: bold;
 }
 
-/* ----- Strong/Bold with Embroidered Look ----- */
+/* ----- Strong/Bold ----- */
 strong {
-  color: var(--craft-espresso);
-  font-weight: bold;
-  text-shadow: 0.5px 0.5px 0 var(--craft-thread-gold);
+  color: var(--ocean-deep);
+  font-weight: 700;
 }
 
-/* ----- Horizontal Rules as Woven Dividers ----- */
+/* ----- Horizontal Rules ----- */
 hr {
   border: none;
-  height: 12px;
-  background:
-    repeating-linear-gradient(
-      90deg,
-      var(--craft-terracotta) 0px,
-      var(--craft-terracotta) 20px,
-      var(--craft-thread-gold) 20px,
-      var(--craft-thread-gold) 24px,
-      var(--craft-sage) 24px,
-      var(--craft-sage) 44px,
-      var(--craft-thread-gold) 44px,
-      var(--craft-thread-gold) 48px
-    );
-  margin: 2em 0;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    var(--ocean-light),
+    var(--teal-light),
+    var(--forest-light)
+  );
+  margin: 2.5em 0;
   border-radius: 2px;
-  position: relative;
-  animation: weaveShift 8s linear infinite;
 }
 
-@keyframes weaveShift {
-  from { background-position: 0 0; }
-  to { background-position: 96px 0; }
-}
-
-hr::before,
-hr::after {
-  content: '';
-  position: absolute;
-  top: 50%;
-  width: 16px;
-  height: 16px;
-  background: var(--craft-cream);
-  border: 3px solid var(--craft-terracotta);
-  border-radius: 50%;
-  transform: translateY(-50%);
-}
-
-hr::before {
-  left: -8px;
-}
-
-hr::after {
-  right: -8px;
-}
-
-/* ----- Images with Polaroid/Craft Frame ----- */
+/* ----- Images ----- */
 img {
-  border: 8px solid var(--craft-cream);
+  border: 6px solid var(--linen-light);
   box-shadow:
-    0 0 0 1px var(--craft-linen),
-    0 4px 12px rgba(74, 55, 40, 0.2);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+    0 0 0 1px var(--ocean-pale),
+    0 4px 12px rgba(26, 82, 118, 0.15);
+  border-radius: 4px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  max-width: 100%;
+  height: auto;
 }
 
 img:hover {
-  transform: rotate(-1deg) scale(1.02);
+  transform: scale(1.01);
   box-shadow:
-    0 0 0 1px var(--craft-linen),
-    0 8px 24px rgba(74, 55, 40, 0.25);
+    0 0 0 1px var(--ocean-light),
+    0 6px 20px rgba(26, 82, 118, 0.2);
 }
 
-/* Center images */
 p > img {
   display: block;
   margin: 1.5em auto;
 }
 
-/* ----- Buttons/Button-like Links ----- */
+/* ----- Buttons ----- */
 .btn,
 a.btn {
   display: inline-block;
   background: linear-gradient(
     180deg,
-    var(--craft-sage) 0%,
-    var(--craft-moss) 100%
+    var(--ocean-mid) 0%,
+    var(--ocean-deep) 100%
   );
-  color: var(--craft-cream) !important;
-  padding: 10px 20px;
-  border-radius: 4px;
-  border: 2px solid var(--craft-moss);
-  font-family: Georgia, serif;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-size: 0.9em;
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.2),
-    0 2px 4px rgba(74, 55, 40, 0.2);
-  transition: all 0.3s ease;
-  position: relative;
-  overflow: hidden;
-}
-
-.btn::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: -100%;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-    90deg,
-    transparent,
-    rgba(255, 255, 255, 0.2),
-    transparent
-  );
-  transition: left 0.5s ease;
+  color: var(--linen) !important;
+  padding: 12px 24px;
+  border-radius: 6px;
+  border: none;
+  font-family: 'Merriweather', Georgia, serif;
+  font-size: 1em;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  box-shadow: 0 2px 6px rgba(26, 82, 118, 0.25);
+  transition: all 0.2s ease;
+  text-decoration: none;
 }
 
 .btn:hover {
-  transform: translateY(-2px);
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.2),
-    0 4px 8px rgba(74, 55, 40, 0.3);
-}
-
-.btn:hover::before {
-  left: 100%;
-}
-
-.btn:hover::after {
-  display: none;
-}
-
-/* ----- Footer with Quilt Pattern ----- */
-footer {
-  background:
-    repeating-conic-gradient(
-      from 0deg at 50% 50%,
-      var(--craft-parchment) 0deg 90deg,
-      var(--craft-linen) 90deg 180deg
-    ) 0 0 / 20px 20px;
-  border-top: 4px solid var(--craft-terracotta);
-  padding-top: 20px;
-  position: relative;
-}
-
-footer::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: repeating-linear-gradient(
-    90deg,
-    var(--craft-thread-gold) 0px,
-    var(--craft-thread-gold) 8px,
-    transparent 8px,
-    transparent 16px
-  );
-}
-
-/* ----- Special Animated Decorations ----- */
-
-/* Floating needle animation for header */
-header h1::before {
-  content: '';
-  position: absolute;
-  top: -20px;
-  right: 10%;
-  width: 40px;
-  height: 4px;
   background: linear-gradient(
-    90deg,
-    var(--craft-thread-gold),
-    #silver
+    180deg,
+    var(--teal) 0%,
+    var(--teal-light) 100%
   );
-  border-radius: 2px;
-  transform: rotate(-45deg);
-  animation: needleFloat 4s ease-in-out infinite;
-  opacity: 0.6;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(20, 143, 119, 0.3);
 }
 
-@keyframes needleFloat {
-  0%, 100% {
-    transform: rotate(-45deg) translateY(0);
-    opacity: 0.6;
-  }
-  50% {
-    transform: rotate(-40deg) translateY(-10px);
-    opacity: 0.8;
-  }
-}
-
-/* Thread trail following the needle */
-header h1::after {
-  content: '';
-  position: absolute;
-  top: -10px;
-  right: calc(10% + 40px);
-  width: 60px;
-  height: 2px;
-  background: var(--craft-thread-gold);
-  transform: rotate(-45deg);
-  animation: threadTrail 4s ease-in-out infinite;
-  opacity: 0.4;
-}
-
-@keyframes threadTrail {
-  0%, 100% {
-    width: 60px;
-    opacity: 0.4;
-  }
-  50% {
-    width: 80px;
-    opacity: 0.6;
-  }
+/* ----- Footer ----- */
+footer {
+  background: var(--linen-dark);
+  border-top: 3px solid var(--ocean-light);
+  padding-top: 20px;
+  margin-top: 40px;
 }
 
 /* ----- Week Headers (Schedule) ----- */
 h3[id^="week-"] {
   background: linear-gradient(
     90deg,
-    rgba(193, 127, 89, 0.1) 0%,
+    var(--ocean-pale) 0%,
     transparent 100%
   );
-  padding: 12px 16px;
-  margin-left: -16px;
-  margin-right: -16px;
-  border-left: 4px solid var(--craft-terracotta);
-  position: relative;
-}
-
-h3[id^="week-"]::after {
-  content: '';
-  position: absolute;
-  right: 16px;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 24px;
-  height: 24px;
-  background:
-    radial-gradient(
-      circle at center,
-      var(--craft-thread-gold) 4px,
-      transparent 4px
-    ),
-    conic-gradient(
-      from 0deg,
-      var(--craft-terracotta) 0deg 60deg,
-      var(--craft-sage) 60deg 120deg,
-      var(--craft-indigo) 120deg 180deg,
-      var(--craft-terracotta) 180deg 240deg,
-      var(--craft-sage) 240deg 300deg,
-      var(--craft-indigo) 300deg 360deg
-    );
-  border-radius: 50%;
-  animation: spinButton 20s linear infinite;
-  opacity: 0.7;
-}
-
-@keyframes spinButton {
-  from { transform: translateY(-50%) rotate(0deg); }
-  to { transform: translateY(-50%) rotate(360deg); }
+  padding: 14px 18px;
+  margin-left: -18px;
+  margin-right: -18px;
+  border-left: 4px solid var(--ocean-mid);
+  border-radius: 0 6px 6px 0;
 }
 
 /* ----- Table of Contents Styling ----- */
 #contents + ul,
 h2[id="contents"] + ul {
-  background: var(--craft-parchment);
+  background: var(--linen);
   padding: 20px 30px;
   border-radius: 8px;
-  border: 2px dashed var(--craft-linen);
-  position: relative;
-}
-
-#contents + ul::before,
-h2[id="contents"] + ul::before {
-  content: 'PATTERN';
-  position: absolute;
-  top: -12px;
-  left: 20px;
-  background: var(--craft-terracotta);
-  color: var(--craft-cream);
-  padding: 4px 12px;
-  font-size: 10px;
-  letter-spacing: 2px;
-  font-family: Georgia, serif;
-  border-radius: 2px;
+  border: 2px solid var(--ocean-pale);
+  box-shadow: 0 2px 8px rgba(26, 82, 118, 0.08);
 }
 
 /* ----- Responsive Adjustments ----- */
 @media (max-width: 768px) {
-  h2::after {
-    font-size: 8px;
-    letter-spacing: 2px;
+  body {
+    font-size: 16px;
   }
 
-  hr {
-    height: 8px;
+  h1 {
+    font-size: 1.6em;
   }
 
-  hr::before,
-  hr::after {
-    width: 12px;
-    height: 12px;
+  h2 {
+    font-size: 1.4em;
   }
 
-  h3[id^="week-"]::after {
-    display: none;
+  h3 {
+    font-size: 1.2em;
+  }
+
+  #container {
+    padding: 1em;
+  }
+
+  h3[id^="week-"] {
+    margin-left: -1em;
+    margin-right: -1em;
+    padding: 12px 14px;
   }
 }
 
 /* ----- Print Styles ----- */
 @media print {
-  * {
-    animation: none !important;
-  }
-
   body {
     background: white;
+    font-size: 12pt;
   }
 
   #container {
@@ -750,7 +487,7 @@ h2[id="contents"] + ul::before {
   }
 
   header {
-    background: #4a3728;
+    background: var(--ocean-deep);
   }
 
   header::before,
@@ -758,12 +495,15 @@ h2[id="contents"] + ul::before {
     display: none;
   }
 
-  a::after {
-    display: none;
+  a {
+    color: var(--ocean-deep);
+    border-bottom: none;
   }
 
-  h3[id^="week-"]::after {
-    display: none;
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: var(--slate);
   }
 }
 
@@ -772,8 +512,6 @@ h2[id="contents"] + ul::before {
   *,
   *::before,
   *::after {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
   }
 }
