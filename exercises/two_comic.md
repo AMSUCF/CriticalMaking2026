@@ -6,9 +6,13 @@ Last week, we warmed up for the semester with an exploration of how we might alr
 
 This exercise is influenced by a prompt from Nick Sousanis, and draws on his [Making Comics](https://spinweaveandcut.com/making-comics-s2021/) course, which you can explore fully in his online documentation. You can find a substantial collection of resources and inspiration for this particular exercise, the [Mini-Comic, in his course](http://spinweaveandcut.com/making-tools-and-minicomics/). 
 
-Whether you’ve encountered comics online, circulating through platforms such as Instagram and Reddit, or on paper, the basic structures are the same: comics rely upon panels, or framed images, often with text in or below, separated by gaps, or gutters. These structures are recognizable but incredibly flexible: take for instance this example from ChatGPT4 and Dall-E, based on the prompt “create a generic stick figure conversation newspaper comic, with six panels:”
+Whether you’ve encountered comics online, circulating through platforms such as Instagram and Reddit, or on paper, the basic structures are the same: comics rely upon panels, or framed images, often with text in or below, separated by gaps, or gutters. These structures are recognizable but incredibly flexible, and their structures are now also a part of AI output with increasing success. Compare for instance this example from ChatGPT4 and Dall- (generated in 2023), based on the prompt “create a generic stick figure conversation newspaper comic, with six panels:”
 
 - ![AI Comic](../img/aicomic.png)
+
+And compare it to this one, generated in December 2025 with Google's Gemini Nano Banana Pro using exactly the same prompt:
+
+- ![AI Comic with Nano Banana Pro](..img/gemini_comic.png)
 
 As you make your comic, think about:
 
