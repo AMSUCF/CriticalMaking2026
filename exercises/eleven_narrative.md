@@ -14,9 +14,9 @@ As we'll be taking our inspiration from electronic poetry and narratives as a fo
   
 - **Change aesthetics and poetics.** Play with the text, and think about how you can use text and color to convey emotion. Try building a mood, and consider branching out to draw in images or create a sense of space. We'll cover options for play in the live session, and the comments in the samples give suggestions of simple substitutions to try.
 
-- **Generate your own moving or interactive text.** Using generative AI and building on our efforts last week, craft a new prototype with moving or interactive text. Think about the examples provided, and try to use precise prompting and edit the resulting code to achieve your goals.
+- **Generate your own moving or interactive text.** Using [Claude Code](https://claude.ai/code) and building on our efforts last week, craft a new prototype with moving or interactive text. Think about the examples provided, and try to use precise prompting and edit the resulting code to achieve your goals.
 
-As always, include links and screenshots of your forked experiments and the new prototype, including the conversation with generative AI. 
+As always, include links and screenshots of your forked experiments and the new prototype, including the conversation with Claude Code. 
 
 ## Walkthrough and Resources
 
