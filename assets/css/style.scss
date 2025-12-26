@@ -411,21 +411,23 @@ a.btn {
 
 /* ----- Sidebar Button (View on GitHub) ----- */
 a.button {
-  background: transparent;
+  background: transparent !important;
+  background-image: none !important;
   border: 2px solid var(--ocean-mid);
-  color: var(--ocean-mid);
-  box-shadow: none;
-  text-shadow: none;
+  color: var(--ocean-mid) !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
 }
 
 a.button:hover {
-  background: var(--ocean-pale);
-  color: var(--ocean-deep);
+  background: var(--ocean-pale) !important;
+  background-image: none !important;
+  color: var(--ocean-deep) !important;
 }
 
 a.button small {
   color: var(--slate);
-  text-shadow: none;
+  text-shadow: none !important;
 }
 
 /* ----- Footer ----- */
