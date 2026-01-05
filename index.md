@@ -112,7 +112,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 
 - *Unflattening* - First Half
 - Frank Auerbach, ["Twenty Self-Portraits (Review)"](https://www.theguardian.com/artanddesign/2023/apr/14/frank-auerbach-twenty-self-portraits-review-hazlitt-holland-hibbert-london)
-- Mimi Ọnụọha, [*The Library of Missing Datasets*](https://mimionuoha.com/the-library-of-missing-datasets)
+- Mimi Ọnụọha, [*The Library of Missing Datasets*](https://www.bitforms.art/artwork/the-library-of-missing-datasets-v-2-0)
 - Johnson and Salter, "Chapter One: Selfie"
 - **[Making Exercise One: "Selfie"](exercises/one_selfie)**
 
