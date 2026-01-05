@@ -63,13 +63,14 @@ Each week, plan on following the module for all asynchronous activities. Each mo
 
 ## Materials and Texts
 
-This course requires a mix of applied and theoretical readings, including some open access materials. The primary texts include:
+This course requires a mix of applied and theoretical readings. All materials are available open access or for free through your UCF library access. The primary texts include:
 
 - Sasha Costanza-Chock, *Design Justice.* [Open Access](https://design-justice.pubpub.org/)
+- Emily Johnson and Anastasia Salter, *Critical Making in the Age of AI.* [Open Access](https://www.fulcrum.org/concern/monographs/zc77ss95p)
 - Nick Sousanis, *Unflattening.* [Unlimited use ebook available through UCF](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=4404111)
 - Thomas S. Mullaney, Benjamin Peters, Mar Hicks and Kavita Philip. *Your Computer is On Fire.* [Unlimited use ebook available through UCF](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=6479710)
   
-In addition, each module includes samples, tutorials, and resources to guide the week's making experiments. Most weeks also include at least one chapter from the draft of *Patterns for Critical Making* (Emily Johnson and Anastasia Salter) - as this book is still in the review process, please don't circulate these early chapters beyond the class.
+In addition, each module includes samples, tutorials, and resources to guide the week's making experiments. 
 
 ---
 
