@@ -203,7 +203,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - *Design Justice*: Design Practices
 - Kathryn Holland and Susan Brown, "Project \ Process \ Product: Feminist Digital Subjectivity in a Shifting Scholarly Field" in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
 - Lauren Lee McCarthy, [*SOMEONE*](https://lauren-mccarthy.com/SOMEONE)
-- Salter and Johnson, "Chapter Ten: Crafting Futures in the Age of AI"
+- Johnson and Salter, "Chapter Ten: Crafting Futures in the Age of AI"
 - **[Making Exercise Ten: Visualization](exercises/ten_visualization)**
 
 ### Week Thirteen: Narratives (Monday, April 6)
