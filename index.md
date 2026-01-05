@@ -114,7 +114,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Frank Auerbach, ["Twenty Self-Portraits (Review)"](https://www.theguardian.com/artanddesign/2023/apr/14/frank-auerbach-twenty-self-portraits-review-hazlitt-holland-hibbert-london)
 - Mimi Ọnụọha, [*The Library of Missing Datasets*](https://mimionuoha.com/the-library-of-missing-datasets)
 - Johnson and Salter, "Chapter One: Selfie"
-- **Featured Guest: Anne Sullivan**
 - **[Making Exercise One: "Selfie"](exercises/one_selfie)**
 
 ### Week Three: Comic (Monday, January 26)
@@ -125,7 +124,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/)
 - Nick Sousanis & Marc Santos, ["Unflattening Academic Peer Review"](https://kairos.technorhetoric.net/28.2/disputatio/sousanis-santos/index.html) (*Kairos* 28.2, 2024)
 - Johnson and Salter, "Chapter Two: Comic"
-- **Featured Guest: Jason Helms**
 - **[Making Exercise Two: Comic](exercises/two_comic)**
 
 ### Week Four: GIF (Monday, February 2)
@@ -135,7 +133,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Explore: [*Buzzademia*](http://hyperrhiz.io/hyperrhiz21/)
 - Kate Durbin, [*Hello Selfie*](https://katedurbin.la/hello-selfie/)
 - Johnson and Salter, "Chapter Three: GIF"
-- **Featured Guest: Lyle Skains**
 - **[Making Exercise Three: GIF](exercises/three_gifs)**
 
 ### Week Five: Map (Monday, February 9)
@@ -145,7 +142,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Crider and Anderson, ["Disney Death Tour"](https://kairos.technorhetoric.net/23.2/topoi/crider-anderson/index.html)
 - [*Mapping Inequality: Redlining in New Deal America*](https://dsl.richmond.edu/panorama/redlining/)
 - Johnson and Salter, "Chapter Four: Map"
-- **Featured Guest: Claudia Berger**
 - **[Making Exercise Four: Map](exercises/four_maps)**
 
 ### Week Six: Hypertext (Monday, February 16)
@@ -155,7 +151,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Christine Wilks, [*Voices*](https://crissxross.net/works/voices/)
 - Explore: [*The Digital Review*](https://thedigitalreview.com/)
 - Johnson and Salter, "Chapter Five: Hypertext"
-- **Featured Guest: Lee Skallerup Bessette**
 - **[Making Exercise Five: Hypertext](exercises/five_hypertext)**
   
 ### Week Seven: Game (Monday, February 23)
@@ -166,7 +161,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Rek, [*Neuroqueer*](https://rek.itch.io/neuroqueer)
 - Explore: [The Bitsy Essay Jam](https://itch.io/jam/the-bitsy-essay-jam/entries)
 - Johnson and Salter, "Chapter Six: Game"
-- **Featured Guest: Daniel Cox**
 - **[Making Exercise Six: Game](exercises/six_game)**
 
 ### Week Eight: Grammar (Monday, March 2)
@@ -177,7 +171,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Allison Parrish, ["Experimental Creative Writing with the Vectorized Word"](https://www.decontextualize.com/teaching/rwet/essays/)
 - Explore: [NaNoGenMo](https://nanogenmo.github.io/)
 - Johnson and Salter, "Chapter Seven: Grammar"
-- **Featured Guest: Leonardo Flores**
 - **[Making Exercise Seven: Grammar](exercises/seven_generator)**
 
 ### Week Nine: Analysis (Monday, March 9)
@@ -188,7 +181,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Micki Kaufman, [*Quantifying Kissinger*](https://blog.quantifyingkissinger.com/)
 - Melanie Walsh & Maria Antoniak, ["The Goodreads 'Classics'"](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)
 - Johnson and Salter, "Chapter Eight: Analysis"
-- **Featured Guest: Sam Blickhan**
 - **[Making Exercise Eight: Analysis](exercises/eight_analysis)**
 
 ### Week Ten: Spring Break - March 16th - 21st
@@ -201,7 +193,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Kate Crawford & Trevor Paglen, ["Excavating AI"](https://excavating.ai/)
 - Explore: [*Kairos Special Issue: Data Visualization*](https://kairos.technorhetoric.net/25.1/index.html)
 - Johnson and Salter, "Chapter Nine: Generation"
-- **Featured Guest: Paul Shovlin**
 - **[Making Exercise Nine: Generation](exercises/nine_generation)**
 
 ### Week Twelve: Code (Monday, March 30)
@@ -210,7 +201,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Kathryn Holland and Susan Brown, "Project \ Process \ Product: Feminist Digital Subjectivity in a Shifting Scholarly Field" in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
 - Lauren Lee McCarthy, [*SOMEONE*](https://lauren-mccarthy.com/SOMEONE)
 - Salter and Johnson, "Chapter Ten: Crafting Futures in the Age of AI"
-- **Featured Guest: Jessica Parr**
 - **[Making Exercise Ten: Visualization](exercises/ten_visualization)**
 
 ### Week Thirteen: Narratives (Monday, April 6)
@@ -220,7 +210,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Everest Pipkin, [*The Barnacle Goose Experiment*](https://everest-pipkin.com/barnacle-goose/)
 - Explore: [Games made with P5.js](https://itch.io/games/made-with-p5js)
 - [*Black Beaches*](https://arij.net/investigations/black-beaches-en/)
-- **Featured Guest: Quinn Dombrowski**
 - **[Making Exercise Eleven: Narrative](exercises/eleven_narrative)**
   
 ### Week Fourteen: Combinations (Monday, April 13)
@@ -230,7 +219,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Vera Sebert, [*The Book You are Looking For Does Not Exist*](https://the-book-you-are-looking-for-does-not-exist.xyz/)
 - Jessica Pressman, ["Old Media / New Media: Reading Material in *S.*"](https://post45.org/2017/01/old-media-new-media-reading-material-in-s/)
 - Koeser, Doroudian, Budak, Li. "Data Beyond Vision" in [*Startwords* Issue 1](https://startwords.cdh.princeton.edu/)
-- **Featured Guest: Caitlin Fisher**
 - **[Making Exercise Twelve: GitHub](exercises/twelve_github)**
 
 ### Week Fifteen: Futures (Monday, April 20)
@@ -240,7 +228,6 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Quinn Dombrowski, [*Future Text*](https://quinndombrowski.com/textiles/future-text/)
 - Amy Goodchild, [*Coded Glass*](https://amygoodchild.com/projects/coded-glass)
 - Joshua Reinier, [*Z^k: A Zettelkablooey*](https://thedigitalreview.com/issue03/zk/index.html)
-- **Featured Guest: PS Berge**
 - **[Optional Making Exercise Thirteen: Multimodal](exercises/thirteen_multimodal)**
 
 ### Final Reflection (Due Sunday, May 3)
