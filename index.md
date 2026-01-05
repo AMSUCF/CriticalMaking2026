@@ -2,7 +2,7 @@
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
-- **Office:** Zoom and TCH 236B; Wednesday 10 - 11:30 AM 
+- **Office:** Zoom Tuesday 12 - 1:30 PM; Campus by appointment 
 - **Course Meeting:** Asynchronous Online
   
 ---
@@ -105,14 +105,16 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Matt Ratto, "Critical Making: Conceptual and Material Studies in Technology and Social Life." (PDF)
 - Jentery Sayers, ["I Don't Know All the Circuitry"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/7d8fca82-c6ca-480f-bf17-1df4a2cdb577)
 - Bill Endres, ["A Literacy of Building: Making in the Digital Humanities"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/2acf33b9-ac0f-4411-8e8f-552bb711e87c#ch04)
+- Mimi Ọnụọha, [*The Library of Missing Datasets*](https://www.bitforms.art/artwork/the-library-of-missing-datasets-v-2-0)
 - Johnson and Salter, "Provocations for Making"
 - **Due: Activity Verification (Friday, January 16)**
 
 ### Week Two: Selfie (Monday, January 19)
 
 - *Unflattening* - First Half
-- Frank Auerbach, ["Twenty Self-Portraits (Review)"](https://www.theguardian.com/artanddesign/2023/apr/14/frank-auerbach-twenty-self-portraits-review-hazlitt-holland-hibbert-london)
-- Mimi Ọnụọha, [*The Library of Missing Datasets*](https://www.bitforms.art/artwork/the-library-of-missing-datasets-v-2-0)
+- Paul Chan, ["Sympathy for the Devil in the Machine."](https://issue3.shiftspace.pub/issue-3/sympathy-for-the-devil-in-the-machine)
+- Kate Durbin, [*Hello Selfie*](https://katedurbin.la/hello-selfie/)
+- Holly Herndon, [*Holly+*](https://paragraph.com/@holly-herndon/holly)
 - Johnson and Salter, "Chapter One: Selfie"
 - **[Making Exercise One: "Selfie"](exercises/one_selfie)**
 
@@ -121,8 +123,8 @@ This course uses a fully asynchronous online format, and relies upon students to
 - *Unflattening* - Second Half
 - Garnet Hertz, "Making Critical Making." (PDF)
 - Scott McCloud, ["My Obsession with Chess."](https://scottmccloud.com/1-webcomics/chess/chess.html)
-- Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/)
 - Ilan Manouach, ["Comics as Big Data: The Transformation of Comics into Machine-Interpretable Information"](https://electronicbookreview.com/publications/comics-as-big-data-the-transformation-of-comics-into-machine-interpretable-information/) (*Electronic Book Review*, 2024)
+- Price, Margeret, & Bahl, Erin Kathleen. (2022). ["The rhetoric of description: Embodiment, power, and playfulness in representations of the visual."](http:/​/​kairos.technorhetoric.net/​26.2/​topoi/​price-bahl/​index.html) *Kairos: A Journal of Rhetoric, Technology, and Pedagogy* 26(2).  
 - Johnson and Salter, "Chapter Two: Comic"
 - **[Making Exercise Two: Comic](exercises/two_comic)**
 
@@ -131,7 +133,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - *Your Computer is On Fire* - Introductions
 - David Staley, "On the 'Maker Turn' in Digital Humanities." in [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries)
 - Explore: [*Buzzademia*](http://hyperrhiz.io/hyperrhiz21/)
-- Kate Durbin, [*Hello Selfie*](https://katedurbin.la/hello-selfie/)
+- Explore: Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/) 
 - Johnson and Salter, "Chapter Three: GIF"
 - **[Making Exercise Three: GIF](exercises/three_gifs)**
 
