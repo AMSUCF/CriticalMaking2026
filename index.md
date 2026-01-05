@@ -228,7 +228,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - *Design Justice*: Design Pedagogies
 - Explore: [*Digital Pedagogy in the Humanities*](https://digitalpedagogy.hcommons.org/)
 - Quinn Dombrowski, [*Future Text*](https://quinndombrowski.com/textiles/future-text/)
-- Amy Goodchild, [*Coded Glass*](https://amygoodchild.com/projects/coded-glass)
+- Amy Goodchild, [Generative Artwork](https://www.amygoodchild.com/art)
 - Joshua Reinier, [*Z^k: A Zettelkablooey*](https://thedigitalreview.com/issue03/zk/index.html)
 - **[Optional Making Exercise Thirteen: Multimodal](exercises/thirteen_multimodal)**
 
