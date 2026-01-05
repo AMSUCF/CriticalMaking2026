@@ -125,7 +125,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Garnet Hertz, "Making Critical Making." (PDF)
 - Scott McCloud, ["My Obsession with Chess."](https://scottmccloud.com/1-webcomics/chess/chess.html)
 - Ilan Manouach, ["Comics as Big Data: The Transformation of Comics into Machine-Interpretable Information"](https://electronicbookreview.com/publications/comics-as-big-data-the-transformation-of-comics-into-machine-interpretable-information/) (*Electronic Book Review*, 2024)
-- Price, Margeret, & Bahl, Erin Kathleen. (2022). ["The rhetoric of description: Embodiment, power, and playfulness in representations of the visual."](http:/​/​kairos.technorhetoric.net/​26.2/​topoi/​price-bahl/​index.html) *Kairos: A Journal of Rhetoric, Technology, and Pedagogy* 26(2).  
+- Price, Margeret, & Bahl, Erin Kathleen. (2022). ["The rhetoric of description: Embodiment, power, and playfulness in representations of the visual."](http://kairos.technorhetoric.net/26.2/topoi/price-bahl/index.html) *Kairos: A Journal of Rhetoric, Technology, and Pedagogy* 26(2).  
 - Johnson and Salter, "Chapter Two: Comic"
 - **[Making Exercise Two: Comic](exercises/two_comic)**
 
