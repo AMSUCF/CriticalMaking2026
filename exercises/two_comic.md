@@ -12,7 +12,7 @@ Whether you’ve encountered comics online, circulating through platforms such a
 
 And compare it to this one, generated in December 2025 with Google's Gemini Nano Banana Pro using exactly the same prompt:
 
-![AI Comic with Nano Banana Pro](..img/gemini_comic.png)
+![AI Comic with Nano Banana Pro](../img/gemini_comic.png)
 
 As you make your comic, think about:
 
