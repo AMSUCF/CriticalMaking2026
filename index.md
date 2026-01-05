@@ -161,7 +161,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - *Your Computer is On Fire* - Part II
 - Sabinne Harrer, "Radical Jamming." (PDF)
 - cecile richard, [*Endless Scroll*](https://haraiva.itch.io/endless-scroll)
-- Rek, [*Neuroqueer*](https://rek.itch.io/neuroqueer)
+- Niebla Games, [*Hawk & Puma*](https://nieblagames.itch.io/hawk-and-puma)
 - Explore: [The Bitsy Essay Jam](https://itch.io/jam/the-bitsy-essay-jam/entries)
 - Johnson and Salter, "Chapter Six: Game"
 - **[Making Exercise Six: Game](exercises/six_game)**
@@ -191,8 +191,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 ### Week Eleven: Generation (Monday, March 23)
 
 - *Design Justice*: Design Values
-- Ian Demsky, ["My Month with Midjourney"](https://electronicbookreview.com/essay/my-month-with-midjourney/)
-- Steven Levy, ["Google's NotebookLM Aims to Be the Ultimate Writing Assistant"](https://www.wired.com/story/googles-notebooklm-ai-ultimate-writing-assistant/)
+- Ethan Mollick, ["The Shape of AI"](https://www.oneusefulthing.org/p/the-shape-of-ai-jaggedness-bottlenecks)
 - Kate Crawford & Trevor Paglen, ["Excavating AI"](https://excavating.ai/)
 - Explore: [*Kairos Special Issue: Data Visualization*](https://kairos.technorhetoric.net/25.1/index.html)
 - Johnson and Salter, "Chapter Nine: Generation"
