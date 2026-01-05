@@ -6,11 +6,13 @@ Last week, we warmed up for the semester with an exploration of how we might alr
 
 This exercise is influenced by a prompt from Nick Sousanis, and draws on his [Making Comics](https://spinweaveandcut.com/making-comics-s2021/) course, which you can explore fully in his online documentation. You can find a substantial collection of resources and inspiration for this particular exercise, the [Mini-Comic, in his course](http://spinweaveandcut.com/making-tools-and-minicomics/). 
 
-Whether you’ve encountered comics online, circulating through platforms such as Instagram and Reddit, or on paper, the basic structures are the same: comics rely upon panels, or framed images, often with text in or below, separated by gaps, or gutters. These structures are recognizable but incredibly flexible, and their structures are now also a part of AI output with increasing success. Compare for instance this example from an earlier generation of image AI (generated in 2023), based on the prompt "create a generic stick figure conversation newspaper comic, with six panels:"
+Whether you’ve encountered comics online, circulating through platforms such as Instagram and Reddit, or on paper, the basic structures are the same: comics rely upon panels, or framed images, often with text in or below, separated by gaps, or gutters. These structures are recognizable but incredibly flexible, and their structures are now also a part of AI output with increasing success. Compare for instance this example from ChatGPT4 and Dall- (generated in 2023), based on the prompt “create a generic stick figure conversation newspaper comic, with six panels:”
 
-- ![AI Comic](../img/aicomic.png)
+![AI Comic](../img/aicomic.png)
 
-The rapid evolution of AI image generation means that tools available today produce dramatically different results than those from even a year ago. As you experiment with AI-generated comics, consider how these tools handle panel layouts, text placement, and visual consistency—and where they still struggle with the sequential art form.
+And compare it to this one, generated in December 2025 with Google's Gemini Nano Banana Pro using exactly the same prompt:
+
+![AI Comic with Nano Banana Pro](..img/gemini_comic.png)
 
 As you make your comic, think about:
 
@@ -26,10 +28,10 @@ Next, gather images and combine them on the page: mix your own material with tha
 
 This type of remix, tracing-to-create, and play is the focus, and the act of creating and manipulating images will open new possibilities for understanding and exploring them in the future. Reading comics by imaginative creators who remix and rethink the page, such as Bryan Talbot’s Alice in Sunderland on the links between Lewis Carroll and the port city of Sunderland (Talbot), can inspire new approaches in your own design.
 
-- ![Alice in Dataland](../img/comic.jpg)
+![Alice in Dataland](../img/comic.jpg)
 
 I used this approach for the cheesy, cartoony illustrations for a full section of that *Kairos* article, [viewable here](https://kairos.technorhetoric.net/20.1/inventio/salter/five/index.html).
 
-- ![Excerpt](../img/dataland.jpg)
+![Excerpt](../img/dataland.jpg)
 
 Remember, we're cultivating here an approach to the material that we'll bring into the digital as we progress this semester! As with the other approaches we'll be trying, know that some of the students in this course have much more experience with visual design than others, so try to focus on your own work and process rather than comparing yourself to others.
