@@ -117,6 +117,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Kate Durbin, [*Hello Selfie*](https://katedurbin.la/hello-selfie/)
 - Holly Herndon, [*Holly+*](https://paragraph.com/@holly-herndon/holly)
 - Johnson and Salter, "Chapter One: Selfie"
+- **Featured Guest: Anne Sullivan**
 - **[Making Exercise One: "Selfie"](exercises/one_selfie)**
 
 ### Week Three: Comic (Monday, January 26)
@@ -127,6 +128,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Ilan Manouach, ["Comics as Big Data: The Transformation of Comics into Machine-Interpretable Information"](https://electronicbookreview.com/publications/comics-as-big-data-the-transformation-of-comics-into-machine-interpretable-information/) (*Electronic Book Review*, 2024)
 - Price, Margeret, & Bahl, Erin Kathleen. (2022). ["The rhetoric of description: Embodiment, power, and playfulness in representations of the visual."](http://kairos.technorhetoric.net/26.2/topoi/price-bahl/index.html) *Kairos: A Journal of Rhetoric, Technology, and Pedagogy* 26(2).  
 - Johnson and Salter, "Chapter Two: Comic"
+- **Featured Guest: Erin Kathleen Bahl**
 - **[Making Exercise Two: Comic](exercises/two_comic)**
 
 ### Week Four: GIF (Monday, February 2)
