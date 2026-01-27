@@ -1,4 +1,4 @@
-# ENG 6819: Critical Making for Humanist Scholarship
+# ENG 6819: Critical Making in Digital Humanities
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
@@ -9,7 +9,7 @@
 
 ## Contents
 
-- [ENG 6819: Critical Making for Humanist Scholarship](#eng-6819-critical-making-for-humanist-scholarship)
+- [ENG 6819: Critical Making in Digital Humanities](#eng-6819-critical-making-in-digital-humanities)
   - [Contents](#contents)
   - [Course Description](#course-description)
   - [Course Objectives](#course-objectives)
@@ -117,6 +117,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Kate Durbin, [*Hello Selfie*](https://katedurbin.la/hello-selfie/)
 - Holly Herndon, [*Holly+*](https://paragraph.com/@holly-herndon/holly)
 - Johnson and Salter, "Chapter One: Selfie"
+- **Featured Guest: Anne Sullivan**
 - **[Making Exercise One: "Selfie"](exercises/one_selfie)**
 
 ### Week Three: Comic (Monday, January 26)
@@ -127,6 +128,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Ilan Manouach, ["Comics as Big Data: The Transformation of Comics into Machine-Interpretable Information"](https://electronicbookreview.com/publications/comics-as-big-data-the-transformation-of-comics-into-machine-interpretable-information/) (*Electronic Book Review*, 2024)
 - Price, Margeret, & Bahl, Erin Kathleen. (2022). ["The rhetoric of description: Embodiment, power, and playfulness in representations of the visual."](http://kairos.technorhetoric.net/26.2/topoi/price-bahl/index.html) *Kairos: A Journal of Rhetoric, Technology, and Pedagogy* 26(2).  
 - Johnson and Salter, "Chapter Two: Comic"
+- **Featured Guest: Erin Kathleen Bahl**
 - **[Making Exercise Two: Comic](exercises/two_comic)**
 
 ### Week Four: GIF (Monday, February 2)
@@ -136,6 +138,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Explore: [*Buzzademia*](http://hyperrhiz.io/hyperrhiz21/)
 - Explore: Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/) 
 - Johnson and Salter, "Chapter Three: GIF"
+- **Featured Guest: Lyle Skains**
 - **[Making Exercise Three: GIF](exercises/three_gifs)**
 
 ### Week Five: Map (Monday, February 9)
@@ -154,6 +157,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Christine Wilks, [*Voices*](https://crissxross.net/works/voices/)
 - Explore: [*The Digital Review*](https://thedigitalreview.com/)
 - Johnson and Salter, "Chapter Five: Hypertext"
+- **Featured Guest: Dan Cox**
 - **[Making Exercise Five: Hypertext](exercises/five_hypertext)**
   
 ### Week Seven: Game (Monday, February 23)
