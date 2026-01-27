@@ -138,6 +138,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Explore: [*Buzzademia*](http://hyperrhiz.io/hyperrhiz21/)
 - Explore: Jason Helms, [*Rhizcomics*](https://www.digitalrhetoriccollaborative.org/rhizcomics/) 
 - Johnson and Salter, "Chapter Three: GIF"
+- **Featured Guest: Lyle Skains**
 - **[Making Exercise Three: GIF](exercises/three_gifs)**
 
 ### Week Five: Map (Monday, February 9)
@@ -156,6 +157,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Christine Wilks, [*Voices*](https://crissxross.net/works/voices/)
 - Explore: [*The Digital Review*](https://thedigitalreview.com/)
 - Johnson and Salter, "Chapter Five: Hypertext"
+- **Featured Guest: Dan Cox**
 - **[Making Exercise Five: Hypertext](exercises/five_hypertext)**
   
 ### Week Seven: Game (Monday, February 23)
