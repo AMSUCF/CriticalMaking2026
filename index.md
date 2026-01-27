@@ -1,4 +1,4 @@
-# ENG 6819: Critical Making for Humanist Scholarship
+# ENG 6819: Critical Making in Digital Humanities
 
 - **Instructor:** Dr. Anastasia Salter
 - **Email:** anastasia@ucf.edu
@@ -9,7 +9,7 @@
 
 ## Contents
 
-- [ENG 6819: Critical Making for Humanist Scholarship](#eng-6819-critical-making-for-humanist-scholarship)
+- [ENG 6819: Critical Making in Digital Humanities](#eng-6819-critical-making-in-digital-humanities)
   - [Contents](#contents)
   - [Course Description](#course-description)
   - [Course Objectives](#course-objectives)
