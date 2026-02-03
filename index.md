@@ -168,6 +168,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Niebla Games, [*Hawk & Puma*](https://nieblagames.itch.io/hawk-and-puma)
 - Explore: [The Bitsy Essay Jam](https://itch.io/jam/the-bitsy-essay-jam/entries)
 - Johnson and Salter, "Chapter Six: Game"
+- **Featured Guest: Chloe Milligan**
 - **[Making Exercise Six: Game](exercises/six_game)**
 
 ### Week Eight: Grammar (Monday, March 2)
@@ -178,6 +179,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Allison Parrish, ["Experimental Creative Writing with the Vectorized Word"](https://www.youtube.com/watch?v=L3D0JEA1Jdc)
 - Explore: [NaNoGenMo](https://nanogenmo.github.io/)
 - Johnson and Salter, "Chapter Seven: Grammar"
+- **Featured Guest: Kavi Duvvoori**
 - **[Making Exercise Seven: Grammar](exercises/seven_generator)**
 
 ### Week Nine: Analysis (Monday, March 9)
