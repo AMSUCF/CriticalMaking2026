@@ -148,6 +148,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Crider and Anderson, ["Disney Death Tour"](https://kairos.technorhetoric.net/23.2/topoi/crider-anderson/index.html)
 - [*Mapping Inequality: Redlining in New Deal America*](https://dsl.richmond.edu/panorama/redlining/)
 - Johnson and Salter, "Chapter Four: Map"
+- **Featured Guest: Lai-Tze Fan**
 - **[Making Exercise Four: Map](exercises/four_maps)**
 
 ### Week Six: Hypertext (Monday, February 16)
