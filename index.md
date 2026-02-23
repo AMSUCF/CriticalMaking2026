@@ -168,6 +168,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - cecile richard, [*Endless Scroll*](https://haraiva.itch.io/endless-scroll)
 - Niebla Games, [*Hawk & Puma*](https://nieblagames.itch.io/hawk-and-puma)
 - Explore: [The Bitsy Essay Jam](https://itch.io/jam/the-bitsy-essay-jam/entries)
+- Explore: [*Game Poems*](https://www.gamepoems.com/)
 - Johnson and Salter, "Chapter Six: Game"
 - **Featured Guest: Chloe Milligan**
 - **[Making Exercise Six: Game](exercises/six_game)**
