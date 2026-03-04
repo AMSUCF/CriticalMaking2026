@@ -33,7 +33,7 @@ There are several options for those with more experience to consider for your fu
 
 One great option is to think about incorporating images - or even making memes, poetry, or comics, as in our previous experiments:
 
-- [Generating SVGs explained](https://github.com/derekahmedzai/cheapbotsdonequick/blob/master/svg-tracery-image-bots.md)
+- [SVGs and complex Tracery](https://nyoom.neocities.org/using_sets)
 - [An example graphic bot](https://bsky.app/profile/did:plc:govmo6vhelgbszd3zz6shpnc)
 - [A poetic example](https://bsky.app/profile/did:plc:65l3hok2gemmsv5e4inqydvp)
 - [A reflection on  bot process](https://harrygiles.org/2016/11/15/nabomamo-the-first-15-bots/)
