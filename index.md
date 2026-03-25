@@ -192,6 +192,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Micki Kaufman, [*Quantifying Kissinger*](https://blog.quantifyingkissinger.com/)
 - Melanie Walsh & Maria Antoniak, ["The Goodreads 'Classics'"](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)
 - Johnson and Salter, "Chapter Eight: Analysis"
+- **Featured Guest: Quinn Daedal**
 - **[Making Exercise Eight: Analysis](exercises/eight_analysis)**
 
 ### Week Ten: Spring Break - March 16th - 21st
@@ -203,6 +204,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Kate Crawford & Trevor Paglen, ["Excavating AI"](https://excavating.ai/)
 - Explore: [*Kairos Special Issue: Data Visualization*](https://kairos.technorhetoric.net/25.1/index.html)
 - Johnson and Salter, "Chapter Nine: Generation"
+- **Featured Guest: Leonardo Flores**
 - **[Making Exercise Nine: Generation](exercises/nine_generation)**
 
 ### Week Twelve: Code (Monday, March 30)
@@ -211,6 +213,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Kathryn Holland and Susan Brown, "Project \ Process \ Product: Feminist Digital Subjectivity in a Shifting Scholarly Field" in [*Bodies of Information*](https://dhdebates.gc.cuny.edu/projects/bodies-of-information)
 - Lauren Lee McCarthy, [*SOMEONE*](https://lauren-mccarthy.com/SOMEONE)
 - Johnson and Salter, "Chapter Ten: Crafting Futures in the Age of AI"
+- **Featured Guest: Zach Whalen**
 - **[Making Exercise Ten: Visualization](exercises/ten_visualization)**
 
 ### Week Thirteen: Narratives (Monday, April 6)
