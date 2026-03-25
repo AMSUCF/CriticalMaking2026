@@ -14,9 +14,9 @@ For this exercise, you will make and unleash a Tracery generator with an origina
 
 - **Expand upon at least three different rules.** Generate a dynamic range of content by employing multiple sentences, patterns, or syntax structures. Think about how you might invite someone to engage repeatedly with your grammar by crafting a meaningful generator of variety.
 
-- **Be engageable in a space and context.** Launch your grammar using Leonaro Flores's [Generative Grammar Template](https://iloveepoetry.org/creative/floresgenerativetemplate.html). If you are an advanced user, ou can also embed it into your own .html file, as in my [retro-generative collaboration with Anne Sullivan](https://dalamar.neocities.org/) or [Masked Making](http://www.asdesigned.com/maskedmaking/), but this is not required
+- **Be engageable in a space and context.** Launch your grammar using Leonaro Flores's [Generative Grammar Template](https://iloveepoetry.org/creative/floresgenerativetemplate.html). If you are an advanced user, ou can also embed it into your own .html file, as in my [retro-generative collaboration with Anne Sullivan](https://dalamar.neocities.org/) or [Masked Making](http://www.asdesigned.com/maskedmaking/), but this is not required. You can also consider launching it as a [Bluesky Bot](https://bluebotsdonequick.com/) - all you need is a Bluesky account for the bot, just copy the grammar into the app.
 
-As with our other exercises, make sure to include both the .html file and your process reflection with screenshots from the process, drawing on the connections to our readings and considering the relationship your work has to a world of algorithmic content.
+As with our other exercises, make sure to include both the .html file / link and your process reflection with screenshots from the process, drawing on the connections to our readings and considering the relationship your work has to a world of algorithmic content.
 
 For advanced users, Tracery can be used for both visual and textual play, as demonstrated in the [Masked Making](http://www.asdesigned.com/maskedmaking/) generator, which uses both a textual grammar to create the imagined names of masked makers and their stories as well as a visual component to craft the masks themselves:
 
@@ -31,7 +31,7 @@ There are several options for those with more experience to consider for your fu
 - [Tracery Live Demo - Adding emoji and dynamic elements](https://gregoryaveryweir.github.io/tracery-live/)
 - [Tracery Continued - Adding action rules](https://catn.decontextualize.com/public/notebooks/propp-inspired-tracery.html)
 
-One great option is to think about incorporating images - or even making memes or comics, as in our previous experiments:
+One great option is to think about incorporating images - or even making memes, poetry, or comics, as in our previous experiments:
 
 - [Blue Bots Done Quick](https://bluebotsdonequick.com/login) - an alternative option to HTML hosting
 - [An example graphic bot](https://cheapbotsdonequick.com/source/hashfacade)
