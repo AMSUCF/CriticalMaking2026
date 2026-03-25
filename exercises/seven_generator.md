@@ -33,9 +33,8 @@ There are several options for those with more experience to consider for your fu
 
 One great option is to think about incorporating images - or even making memes, poetry, or comics, as in our previous experiments:
 
-- [SVGs and complex Tracery](https://nyoom.neocities.org/using_sets)
-- [An example graphic bot](https://bsky.app/profile/did:plc:govmo6vhelgbszd3zz6shpnc)
-- [A poetic example](https://bsky.app/profile/did:plc:65l3hok2gemmsv5e4inqydvp)
+- [Blue Bots Done Quick](https://bluebotsdonequick.com/login) - an alternative option to HTML hosting
+- [An example graphic bot](https://cheapbotsdonequick.com/source/hashfacade)
 - [A reflection on  bot process](https://harrygiles.org/2016/11/15/nabomamo-the-first-15-bots/)
 
 Another fun option is to continue our exploration of remix by trying out Tracery with either Twine or Bitsy: you can find a Tracery integration in the Bitsy Hacks, and an [example walkthrough here](https://cephalopodunk.itch.io/silence-would-be-better/devlog/1802/bitsy-and-tracery-sitting-in-a-tree). For Twine and Tracery, take a look at our example in [P-4 of Twining.](https://www.fulcrum.org/concern/monographs/ms35tb924), which includes an example with Tracery already integrated into the Twine structure. We'll be doing more intententional remixing in future exercises, so keep this in mind for the coming weeks even if you don't try it now!
