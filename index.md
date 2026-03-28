@@ -214,7 +214,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Lauren Lee McCarthy, [*SOMEONE*](https://lauren-mccarthy.com/SOMEONE)
 - Johnson and Salter, "Chapter Ten: Crafting Futures in the Age of AI"
 - **Featured Guest: Zach Whalen**
-- **[Making Exercise Ten: Visualization](exercises/ten_visualization)**
+- **[Making Exercise Ten: Code](exercises/ten_code)**
 
 ### Week Thirteen: Narratives (Monday, April 6)
 
