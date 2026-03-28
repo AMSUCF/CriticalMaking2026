@@ -1,10 +1,10 @@
 # Making Exercise Eleven: Narrative
 
-As we continue our play with P5.js, I've built a starter project for you to explore epoetry and narrative. Depending on your programming background, feel free to branch out further from the provided frameworks. Keep in mind the inspiration works we discussed, and particularly draw on influences such as [Algorithmic Sea](https://the-color-of-water.github.io/AlgorithmicSea-ObservableArti) and [Strange Rain](https://erikloyer.com/index.php/projects/detail/strange_rain), shown below.
+As we continue our play with P5.js, conceptualize a project that uses P5.js for a more significant playful, narrative, or interactive purpose. You might draw on influences discussed in this week's demo, such as [Algorithmic Sea](https://the-color-of-water.github.io/AlgorithmicSea-ObservableArti) and [Strange Rain](https://erikloyer.com/index.php/projects/detail/strange_rain), shown below, or you can build on a concept you started last week or earlier in the semester.
 
 ![Strange Rain](../img/rain.png)
 
-Think of this as a free-form creative exercise. You can focus on aesthetics, poetics, or motion, depending on your interests.
+Think of this as a free-form exercise to take your work with agentic tools to a next level: try sharing a prototype design notes, data, and anything else that is relevant to your goals in the GitHub repository before you start. Make sure to use "Planning" mode to think through the idea and clarify the design before the agent starts implementation.
 
 ## The Narrative Prompt
 
