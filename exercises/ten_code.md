@@ -18,7 +18,7 @@ As with our other exercises, make sure to include both a link to any digital ele
 
 ![Pie chart](../img/p5sample.png)
 
-The five samples I walked through in my demo are shared using [Open Processing](https://openprocessing.org/). This platform is free and lets us eliminate certain steps (like uploading to a web server or configuring the file system) so we can focus on playing with the library itself. P5.js works similarly, feel free to use either, but it will be easier to fork mine on this site. Start by creating a free account, then navigate to the samples covered in the video and fork each in turn to make your own iterations:
+The samples I walked through in my demo are shared using [Open Processing](https://openprocessing.org/). This platform is free and lets us eliminate certain steps (like uploading to a web server or configuring the file system) so we can focus on playing with the library itself. P5.js works similarly, feel free to use either, but it will be easier to fork mine on this site. Start by creating a free account, then navigate to the samples covered in the video and fork each in turn to make your own iterations:
 
 - [Simple Bar Chart](https://openprocessing.org/sketch/1307584)
 - [Pie Chart](https://openprocessing.org/sketch/1307661)
