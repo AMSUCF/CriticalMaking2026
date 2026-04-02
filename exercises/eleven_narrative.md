@@ -1,6 +1,6 @@
 # Making Exercise Eleven: Narrative
 
-As we continue our play with P5.js, conceptualize a project that uses P5.js for a more significant playful, narrative, or interactive purpose. You might draw on influences discussed in this week's demo, such as [Algorithmic Sea](https://the-color-of-water.github.io/AlgorithmicSea-ObservableArti) and [Strange Rain](https://erikloyer.com/index.php/projects/detail/strange_rain), shown below, or you can build on a concept you started last week or earlier in the semester.
+As we continue our play with P5.js, conceptualize a project that uses P5.js for a more significant playful, narrative, or interactive purpose. You might draw on influences discussed in this week's demo, such as [Algorithmic Sea](https://www.gabrielpereira.net/algorithmicsea/) and [Strange Rain](https://erikloyer.com/index.php/projects/detail/strange_rain), shown below, or you can build on a concept you started last week or earlier in the semester.
 
 ![Strange Rain](../img/rain.png)
 
