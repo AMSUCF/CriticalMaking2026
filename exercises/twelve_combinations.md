@@ -1,6 +1,6 @@
-# Exercise Thirteen: Multimodal
+# Exercise Twelve: Combinations
 
-This week's optional exercise is focused on the remix. There's no need to pick up additional tools, but think about drawing together aspects of your making and conceptual prototypes into the foundation for a larger project. This week's lecture covers several combinations you can consider, from integrating P5 with Twine and/or Bitsy to building generatively illustrated GIF hypertexts and beyond. Going back to the basics (such as comics and drawing as elements for an interactive project) can also be a great way to bring together the components of your making for your portfolio at another level.
+This week's exercise is focused on remixing, combining, and extending the work you've already done. You can use both hand-coded and agentic solutions to making those changes, as covered in this week's video: this might include integrating P5 with Twine and/or Bitsy, building GIF-illustrated hypertexts, adding Tracery to your P5  and beyond. Going back to the basics (such as comics and drawing as elements for an interactive project) can also be a great way to bring together the components of your making for your portfolio at another level.
 
 Often, this will require revisiting the previous modules and looking at additional documentation for exporting and embedding, as discussed last week as part of building GitHub portfolios. Leave time for debugging these combinations, as even HTML and JavaScript files can be difficult to combine without errors.
 
@@ -14,8 +14,8 @@ This week's prompt is intentionally flexible to allow you to choose the tools, p
 
 - **Combine at least three ingredients** - Depending on your interests, these might include more visual, procedural, or data-driven components that work well together. For example, Tracery combines well with P5.js, and both might make a fantastic "prelude" to a Twine piece geared towards *Kairos* or *the digital review.* Note the three tools you used and why you selected them in your introduction to your reflection prompt.
 
-- **Convey a coherent theme.** - Approach your multimodal exercise as a coherent whole: rather than showcasing the technologies and making execises from previous iterations as fragmented components, revisit each part and think about how it adds to an overall theme. Revisiting your text will help draw the pieces together. Think about how this will fit in your portfolio.
+- **Convey a coherent theme.** - Approach your multimodal exercise as a coherent whole: rather than showcasing the technologies and making execises from previous iterations as fragmented components, revisit each part and think about how it adds to an overall theme. Revisiting your text will help draw the pieces together. Agentic tools can help with making the works "fit" together technically, but you need to guide the intention of the pieces.
 
 - **Work towards aesthetic unity.** - Think about ways to connect the components of your work visually: can you revisit font choices? Use a shared color palette? Try to avoid drawing attention to the separate pieces of your work - instead, play with strategies to bring the interfaces, and ideas, together.
 
-As always, please share screenshots from your process as well as a link to your new piece, ideally embedded in your portfolio! Since we're revisiting previous platforms, there are no additional specific resources for this week. Try revisiting each of the exercise overviews for the making methods you're combining, and take another look at the additional and advanced resources listed.
+As always, please share screenshots from your process as well as a link to your new piece on GitHub Pages. 

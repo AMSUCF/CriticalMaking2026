@@ -223,6 +223,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Everest Pipkin, [*The Barnacle Goose Experiment*](https://everest-pipkin.com/barnacle-goose/)
 - Explore: [Games made with P5.js](https://itch.io/games/made-with-p5js)
 - [*Black Beaches*](https://arij.net/investigations/black-beaches-en/)
+- **Featured Guest: Lee Skallerup Bessette**
 - **[Making Exercise Eleven: Narrative](exercises/eleven_narrative)**
   
 ### Week Fourteen: Combinations (Monday, April 13)
@@ -232,7 +233,8 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Vera Sebert, [*The Book You are Looking For Does Not Exist*](https://the-book-you-are-looking-for-does-not-exist.xyz/)
 - Jessica Pressman, ["Old Media / New Media: Reading Material in *S.*"](https://post45.org/2017/01/old-media-new-media-reading-material-in-s/)
 - Koeser, Doroudian, Budak, Li. "Data Beyond Vision" in [*Startwords* Issue 1](https://startwords.cdh.princeton.edu/)
-- **[Making Exercise Twelve: GitHub](exercises/twelve_github)**
+- **Featured Guest: Nikki Fragala Barnes**
+- **[Making Exercise Twelve: Combinations](exercises/twelve_combinations)**
 
 ### Week Fifteen: Futures (Monday, April 20)
 
@@ -241,7 +243,7 @@ This course uses a fully asynchronous online format, and relies upon students to
 - Quinn Dombrowski, [*Future Text*](https://quinndombrowski.com/textiles/future-text/)
 - Amy Goodchild, [Generative Artwork](https://www.amygoodchild.com/art)
 - Joshua Reinier, [*Z^k: A Zettelkablooey*](https://thedigitalreview.com/issue03/zk/index.html)
-- **[Optional Making Exercise Thirteen: Multimodal](exercises/thirteen_multimodal)**
+- **[Optional Making Exercise Thirteen: Tools](exercises/thirteen_tools)**
 
 ### Final Reflection (Due Sunday, May 3)
 
