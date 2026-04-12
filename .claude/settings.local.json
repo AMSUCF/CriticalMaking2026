@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:anastasiasalter.net)",
+      "Bash(git add:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
