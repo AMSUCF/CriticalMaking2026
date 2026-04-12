@@ -4,7 +4,10 @@ This week's optional exercise is to build your own tool for simple making. We've
 
 ## The Tools Prompt
 
-This week's prompt is intentionally flexible and open to your creative and professional goals, so think about what might be useful to you in the future. My video walks through one example, making a [tool](https://anastasiasalter.net/CritMakingToolDemo/) that allows the user to import an image and build a simple, one-room P5.js escape room. Notice how this tool includes both a demo of it in action (built from a generated sample image, and customized directly by me using the tool itself) and an export fuction to allow the user to take their game and customize it further or share it on any platform. This is very far from the complexity of Bitsy, Twine, and Tracery, but it demonstrates how agentic AI works as a meta-tool, allowing us to build better interfaces for the specific work we want to do.
+This week's prompt is intentionally flexible and open to your creative and professional goals, so think about what might be useful to you in the future. My video walks through one example, making a [tool](https://anastasiasalter.net/CritMakingToolDemo/) that allows the user to import an image and build a simple, one-room P5.js escape room. Here's a shortened walkthrough of the process behind this example:
+
+![Making the tool](../img/CritMakingTool_edited.gif)
+Notice how this tool includes both a demo of it in action (built from a generated sample image, and customized directly by me using the tool itself) and an export fuction to allow the user to take their game and customize it further or share it on any platform. This is very far from the complexity of Bitsy, Twine, and Tracery, but it demonstrates how agentic AI works as a meta-tool, allowing us to build better interfaces for the specific work we want to do.
 
 As you work on your tool, make sure to include:
 
