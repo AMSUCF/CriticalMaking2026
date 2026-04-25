@@ -9,14 +9,19 @@ The example created in this week's video is available to explore live [on Github
 Keep in mind the following simple methods for linking and combining materials before you get fancy with Claude Code:
 
 - **iframes** - As shown above, iframes are an excellent way to combine two very different types of material: you can use an iframe to link to another HTML file in your repository and include it in a box inside any other page--for instance, you can display a P5.js sketch or a Bitsy game inside a Twine pages. Here's an example of proper iframe code - just change the html file name to the name of another file in your repository, and adjust the width and height as needed:
+
 ```
 <iframe src="anotherfile.html" width="600" height="600"></iframe>
 ```
+
 - **Adding images** - Adding your comic, GIF, selfie, or other image to a HTML file is a two step process. First, upload the image file to the repository where you'll be working: I recommend uploading everything you plan to use before you start. Adding an image to the Twine or as a header above your Bitsy game is fairly straightforward - you can use an image tag, as shown below. For P5.js, reference the code in the linked escape room example:
+
 ```
 <img src="imagename.jpg">
 ```
+
 - **Relative links** - If you've uploaded all your html files into the same directory, remember that whichever file you label as index.html will be the default that displays on your GitHub Pages site. If you don't designate one file as index.html, your GitHub Pages site will give a 404 error. Simple links are an easy way to progress from say a Bitsy to a Twine, P5 to a Bitsy game, etc, but you can also use Claude Code to create more complex links from the ending passages or conditions of your interactive pieces, as shown in the demo. Here's the basic link:
+
 ```
 <a href="otherfile.html">Text of the link.</a>
 ```
